@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Rachmat Syahputra, a passionate full-stack web developer from Indonesia.
 
-[![Rachmat Syahputra's github stats](https://github-readme-stats.vercel.app/api?username=rach-syahputra&count_private=true&show_icons=true&theme=radical)](https://github.com/rach-syahputra)
+<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=rach-syahputra&amp;&amp;show_icons=true&amp;count_private=true&amp;theme=midnight-purple"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=rach-syahputra&amp;theme=dark"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rach-syahputra&amp;layout=compact&amp;theme=dark"></td><td></td></tr></tbody></table>
 
 ### About
 
@@ -12,21 +12,22 @@
 - **Fact :** First solve the problem, then write the code :heart:
 - **Contact me :** [rach.syahputra@gmail.com](mailto:rach.syahputra@gmail.com)
 
-### Languages, Frameworks and Tools
+### Languages
+![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=blue)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"></code>
+### Tech Stacks
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)
+![Next.js](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind%20css)
+![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+### Tools
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=orange)
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=purple)
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=9ek57k0sarjf0jgzlo5ov22ou)
+
