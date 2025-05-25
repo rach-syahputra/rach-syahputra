@@ -9,7 +9,7 @@
 - **Learning :** Full-Stack Development :zap:
 - **Languages :** JavaScript, TypeScript
 - **Hobbies :** Music :headphones:
-- **Fact :** First solve the problem, then write the code :heart:
+- **Fact :** First solve the problem, then write the code
 - **Contact me :** [rach.syahputra@gmail.com](mailto:rach.syahputra@gmail.com)
 
 ### Languages
