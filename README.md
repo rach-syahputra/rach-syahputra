@@ -1,12 +1,12 @@
-### :man_technologist: [Rachmat Syahputra](https://rachmatsyahputra.vercel.app/)
+### [Rachmat Syahputra](https://rachmatsyahputra.vercel.app/)
 
-👋 Hi, I'm Rachmat Syahputra, a passionate full-stack web developer from Indonesia.
+Hi, I'm Rachmat Syahputra, a passionate full-stack web developer from Indonesia.
 
 <table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=rach-syahputra&amp;&amp;show_icons=true&amp;count_private=true&amp;theme=midnight-purple"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=rach-syahputra&amp;theme=dark"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rach-syahputra&amp;layout=compact&amp;theme=dark"></td><td></td></tr></tbody></table>
 
 ### About
 
-- **Learning :** Full-Stack Development :zap:
+- **Learning :** Full-Stack Development
 - **Languages :** JavaScript, TypeScript
 - **Hobbies :** Music :headphones:
 - **Fact :** First solve the problem, then write the code
